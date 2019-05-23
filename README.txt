@@ -1,3 +1,4 @@
-Ê¹ÓÃÃüÁî python dir_search.py [url] [×Öµä]
 
-Àı£ºpython dir_search.py http://127.0.0.1/ dic.txt
+å‘½ä»¤æ ¼å¼ python dir_search.py [url] [Ã—Ã–ÂµÃ¤]
+
+ä¾‹ï¼špython dir_search.py http://127.0.0.1/ dic.txt
